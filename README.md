@@ -1,0 +1,2 @@
+Aqui podras encontrar todos los archivos necesarios para hacer una impresora 2D con fpga.
+En la carpeta STL encontraran la programacion en python de como leer archivos STL (los cuales son modelos en 3D) 
